@@ -56,3 +56,4 @@
 (package! move-text)
 (package! vue-mode)
 (package! origami)
+(package! catppuccin-theme)
